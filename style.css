@@ -1,3 +1,22 @@
 body{
+
+    height: 100vh;
+    background-color: black;
     background-image: url(imagens/fundo-madeira.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#phone{
+    height: 500px;
+    width: 250px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    position: relative;
+    transform: translate(0%, 9%);
+    
 }
