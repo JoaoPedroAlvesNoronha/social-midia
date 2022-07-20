@@ -1,6 +1,4 @@
 body{
-
-    height: 97vh;
     background-color: black;
     background-image: url(imagens/fundo-madeira.jpg);
     background-position: center top;
@@ -9,28 +7,23 @@ body{
 
 }
 #phone{
-    height: 500px;
-    width: 250px;
+    height: 450px;
+    width: 220px;
+    
     
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-attachment: fixed;
 
     position: relative;
     transform: translate(0%, 9%);
     
 }
-#hp{
-    size: 400px;
-    height: 400px;
-    width: 220px;
-    
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
+#tela{
     position: relative;
-    top: auto;
-    left: auto;
-    transform: translate(-0%, -100%);
+    top: -352px;
+    left: 552px;
+    width: 190px;
+    height: 340px;
 }
