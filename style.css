@@ -1,6 +1,6 @@
 body{
 
-    height: 100vh;
+    height: 97vh;
     background-color: black;
     background-image: url(imagens/fundo-madeira.jpg);
     background-position: center top;
@@ -19,4 +19,18 @@ body{
     position: relative;
     transform: translate(0%, 9%);
     
+}
+#hp{
+    size: 400px;
+    height: 400px;
+    width: 220px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: translate(-0%, -100%);
 }
